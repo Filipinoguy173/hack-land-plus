@@ -2,7 +2,7 @@
   {
 		"name": "Hack Land Merc Band",
 		"unitType": "Scout",
-                "uniqueTo": "Mod Land",
+                "uniqueTo": "Hack Land",
 	        "movement": 10,
 	        "interceptRange": 10
 		"range": 10,
