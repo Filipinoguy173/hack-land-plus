@@ -4,6 +4,6 @@
 		"uniqueTo": "Hack Land",
 		"cityStrength": 1000,
 		"cityHealth": 1000,
-		"uniques": ["Destroyed when the city is captured", "Unbuildable", "Will not be displayed in Civilopedia", "New [Military] units start with [100] Experience [in this city]"]
+		"uniques": ["Destroyed when the city is captured", "Unbuildable", "Will not be displayed in Civilopedia", "New [All] units start with [1000] Experience [in this city]"]
 	},
   ]
