@@ -1,9 +1,0 @@
-[
- {
-		"name": "Hack Land Defensive District",
-		"uniqueTo": "Hack Land",
-		"cityStrength": 1000,
-		"cityHealth": 1000,
-		"uniques": ["Destroyed when the city is captured", "Unbuildable", "Will not be displayed in Civilopedia", "New [All] units start with [1000] Experience [in this city]"]
-	},
-  ]
